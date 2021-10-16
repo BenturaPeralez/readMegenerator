@@ -1,6 +1,6 @@
 # readMegenerator
 
-Expectations
+Descriptions
 
 Use a command-line to do the following:
 
@@ -15,3 +15,8 @@ Use a command-line to do the following:
 -corresponding links in the readMe
 
 -Walk through video provided in the readMe.gif
+
+Screenshots
+
+
+//link
