@@ -1,6 +1,10 @@
 # readMegenerator
 
-Descriptions
+Table of Contents 
+[Descriptions](#descriptions)
+
+
+##Descriptions
 
 Use a command-line to do the following:
 
@@ -16,7 +20,7 @@ Use a command-line to do the following:
 
 -Walk through video provided in the readMe.gif
 
-Screenshots
+##Screenshots
 
 
 //link
