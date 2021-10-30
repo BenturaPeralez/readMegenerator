@@ -61,37 +61,43 @@ inquirer.prompt([
 ]).then (function (surveyResults){
     console.log(surveyResults)
     var readme=`
-    #Title: ${surveyResults.title}
 
-    license: ${surveyResults.license}
+# Title:
 
-    ##Description: 
+${surveyResults.title}
+
+license: ${surveyResults.license}
+
+## Description: 
+
 ${surveyResults.description}
 
-    ##Contents:
+## Contents:
+
 ${surveyResults.contents}
   
 
-    ##Installation instructions:
+## Installation instructions:
+
 ${surveyResults.installation}
 
-    ##Usage instructions:
+## Usage instructions:
 ${surveyResults.usage}
 
-    ##Contribution guidelines:
+## Contribution guidelines:
 ${surveyResults.contribution}
 
-    ##Test instructions:
+## Test instructions:
 ${surveyResults.test}
 
-    #Questions
+# Questions
 GitHub: ${surveyResults.gitHub}
 
 Email: ${surveyResults.email}
 
 `
   
-    fs.writeFile('readme.md',readme,function(err){
+    fs.writeFile('generatedreadme.md',readme,function(err){
     if (err) {
         console.log(err)
     };

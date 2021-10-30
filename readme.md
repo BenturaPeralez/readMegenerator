@@ -1,29 +1,18 @@
 
-    #Title: amazingProject
+Expectations
 
-    license: MIT
+Use a command-line to do the following:
 
-    ##Description: 
-super amazing project on things related to computer science such as ....
+-Ask user to input a Title, Description, Table of Contents, Installation, Usage License, Contributing, Tests, and personal information (git hub and email)
 
-    ##Contents:
-1.installation 2.how to use
-  
+-All of the information inputed will display on the ReadMe
 
-    ##Installation instructions:
-Make sure to copy and paste the github into your terminal
+-The license is displayed as a list of options all others the user puts in the information
 
-    ##Usage instructions:
-do not use this to make a profit off of it
+-Personal information is under the section name of questions
 
-    ##Contribution guidelines:
-I will be the one to approve whether or not a contribution is valid
+-corresponding links in the readMe
 
-    ##Test instructions:
-N/A
+-Walk through video provided
 
-    #Questions
-GitHub: https://github.com/nicolewallace09/team-profile-generator/blob/master/index.js
-
-Email: noemail@gmail.com
-
+[link to walkthrough video](https://drive.google.com/file/d/1ABlQn9zbNjuwIwSUjb0Eq1xgMpZj3fME/view)
